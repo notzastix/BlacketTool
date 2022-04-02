@@ -1,5 +1,6 @@
 # BlacketTool
 A advanced Multi-Tool for [blacket.org](https://beta.blacket.org/), Features below.
+Join our Discord [here](https://discord.gg/xxBtqPHSjW)!
 # Features:
 ## Trade Bot:
 - Automaticly make up to 150 accounts. (more soon)
