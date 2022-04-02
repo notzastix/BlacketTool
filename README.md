@@ -21,7 +21,6 @@ A advanced Multi-Tool for [blacket.org](https://beta.blacket.org/), Features bel
 - Account stealer
 - More soon...
 # How to get it
-## Ways:
 - Be friends with zastix
 - Buy it [here](https://discord.gg/xxBtqPHSjW)
 - Get it from me (various ways)
