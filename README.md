@@ -10,7 +10,7 @@ A trade-bot for [blacket](https://beta.blacket.org/). Features below.
 ## Ways:
 - Be friends with zastix
 - Buy it
-- Get it from me (various ways, click [here]() for list)
+- Get it from me (various ways)
 # Other info
 ## Credits:
 - zastix (me) - coding it all <!-- LMFAO -->
