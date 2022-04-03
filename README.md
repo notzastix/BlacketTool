@@ -8,15 +8,15 @@ Join our Discord [here](https://discord.gg/xxBtqPHSjW)!
 - Send daily rewards to you automaticly.
 - Automaticly open boxes then send the blooks to you.
 - Chose a specific blook to attempt to get.
-## Blacket Hacks:
+### Blacket Hacks:
 - Spam open boxes
 - Sell dupes
 - etc...
-## Trading Utilities
+### Trading Utilities
 - Anti-Scam
 - Auto-Scam
 - More soon..
-## Misc Utilites
+### Misc Utilites
 - PhPSessionID Spoofer
 - SessionID grabber
 - Account stealer
