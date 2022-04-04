@@ -26,6 +26,8 @@ Join our Discord [here](https://discord.gg/xxBtqPHSjW)!
 - Buy it [here](https://discord.gg/xxBtqPHSjW)
 - Get it from me (various ways)
 # Other info
+## Announcements
+- Ive been getting alot of DMS and people just saying that this tool will ruin the game, first of all, its private so it wont make that much of an impact, and no it wont.
 ## Credits:
 - [zastix](https://github.com/ZasticBradyn) - Coding the multi-tool
 - [Blacket is Life](https://www.youtube.com/channel/UC_NHqSmXMtvzrA99euVvr9w) - Beta-testing
