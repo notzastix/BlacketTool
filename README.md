@@ -27,6 +27,6 @@ Join our Discord [here](https://discord.gg/xxBtqPHSjW)!
 - Get it from me (various ways)
 # Other info
 ## Credits:
-- zastix (me) - Coding the multi-tool
+- [zastix](https://github.com/ZasticBradyn) - Coding the multi-tool
 - [Blacket is Life](https://www.youtube.com/channel/UC_NHqSmXMtvzrA99euVvr9w) - Beta-testing
 - [PenguinPowers](https://github.com/penguinblook/) - Coding the injector
