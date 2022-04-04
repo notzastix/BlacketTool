@@ -29,5 +29,4 @@ Join our Discord [here](https://discord.gg/xxBtqPHSjW)!
 ## Credits:
 - zastix (me) - coding it all <!-- LMFAO -->
 - [Blacket is Life](https://www.youtube.com/channel/UC_NHqSmXMtvzrA99euVvr9w) - Beta-testing
-- Fleuryfan292929#7377 - Beta-testing
 - [PenguinPowers](https://github.com/penguinblook/) - Injector Code.
